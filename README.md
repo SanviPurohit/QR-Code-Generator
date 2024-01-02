@@ -5,5 +5,7 @@ In the button I also learned how to add a simple hover effect.
 I also gave some animations to the input box like I have given the shake animation to input box. So whenever someones click on the button without entering anything in the input box, it will show this animantion.
 I then used a website to get my QR Code and then linked it with the HTML by using JavaScript.
 I used A very basic level JavaScript in thi project.
+Hope this project of mine will also help you as a beginner to practice some skills that you've learned.
+Thank You!
 
 
